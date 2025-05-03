@@ -1,8 +1,6 @@
 public class kabary2 {
     public static void main(String[] args) {
 //Bon
-        
-
 String[] mpikabary = new String[3];
 String[] village = new String[3];
 String[] heure = new String[3];
