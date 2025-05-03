@@ -1,6 +1,7 @@
 public class kabary2 {
     public static void main(String[] args) {
-String[] mpikabaryy = new String[3];
+//Bon
+        
 
 String[] mpikabary = new String[3];
 String[] village = new String[3];
