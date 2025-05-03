@@ -1,6 +1,6 @@
 public class kabary2 {
     public static void main(String[] args) {
-
+//Variables:
 
 String[] mpikabary = new String[3];
 String[] village = new String[3];
