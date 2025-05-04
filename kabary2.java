@@ -1,6 +1,7 @@
 public class kabary2 {
     public static void main(String[] args) {
-//Bon
+
+        
 String[] mpikabary = new String[3];
 String[] village = new String[3];
 String[] heure = new String[3];
@@ -121,6 +122,10 @@ if (valide){
             }
         }
 
-      
+        if (valide) {
+            System.out.println("Le jury qui donne plus de note en moyenne pour les discours entre midi et 14h est : " + juryPlus10 + ".\n");
+        } else {
+            System.out.println("Aucun jury n'a donné de note pour les discours entre midi et 14h\n");
+        }
     }
 }
